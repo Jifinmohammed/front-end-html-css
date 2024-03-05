@@ -1,0 +1,14 @@
+.parent{
+    width: 500px;
+    height: 400px;
+    margin: auto ;
+    background-color: bisque;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}.parent .child1{
+    grid-column: 2;
+    grid-row: 2;
+    background-color: red;
+}

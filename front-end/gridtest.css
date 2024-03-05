@@ -1,0 +1,13 @@
+.parant{
+    width: 563px;
+    height: 329px;
+    margin: auto ;
+    background-color:gray;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    border: 10px solid wheat;
+
+}

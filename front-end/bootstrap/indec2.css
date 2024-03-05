@@ -1,0 +1,16 @@
+.card-text{
+    color: black;
+    font-size: larger;
+}.card-title{
+    color: rgb(34, 18, 1);
+    font-style: italic;
+    font-size: xx-large;
+}.brosh{
+   display: grid; 
+   grid-template-columns: 300px 400px;
+  
+}.hist{
+    color: black;
+    font-style: italic;
+    font-size: bold;
+}

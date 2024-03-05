@@ -1,0 +1,18 @@
+#green1{
+    width: 500px;
+    height: 510px;
+    background-color: green;
+    border-radius: 300px;
+    
+}#blue1{
+    width: 400px;
+    height: 410px;
+    background-color: blue;
+    border-radius: 200px;
+}
+#red{
+    width: 300px;
+    height: 310px;
+    background-color: red;
+    border-radius: 200px;
+}

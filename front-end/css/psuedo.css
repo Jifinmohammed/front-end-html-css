@@ -1,0 +1,20 @@
+h1:hover{
+    color: aquamarine;
+}
+
+h1 :active{
+    color: blue;
+}
+button:active{
+    color: blue;
+    background-color: red;
+}a:visited{
+    color: rgb(147, 27, 27);
+}
+p::first-line{
+    color:red;
+    font-style: italic;
+}
+h3 ::after{
+    content: "metoo";
+}

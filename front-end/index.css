@@ -1,0 +1,10 @@
+.hidden-element{
+    visibility: visible;
+    opacity: 0.5;
+    position: relative;
+    top: 10px;
+    left: 50px;
+    transform: translate(-50%,-50%);
+}.linking{
+    
+}

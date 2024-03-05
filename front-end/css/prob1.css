@@ -1,0 +1,44 @@
+p{
+    color: darkgray;
+    font-size: bold;
+    font-style: italic;
+}
+#container{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.important{
+    color: chocolate;
+    font-size: xx-small;
+    font-style: italic;
+}
+.list{
+    color: blueviolet;
+    font-style: italic;
+    font-size: x-large;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black ;
+}
+.h4{
+    color: blue;
+    margin-left: 30px;
+    margin-top: 90px;
+}
+ol #l1{
+    font-style: italic;
+    color:red;
+}
+ol #l4{
+    font-size: xx-large;
+    color: rgb(42, 165, 44);
+}.even{
+   font-style: italic;
+   color: blue;
+}.odd{
+    color: red;
+     font-size: xx-small;
+}
